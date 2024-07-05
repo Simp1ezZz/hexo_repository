@@ -11,6 +11,9 @@ dependencies:
   hexo:
     specifier: ^7.3.0
     version: 7.3.0
+  hexo-butterfly-artitalk-pro:
+    specifier: ^1.0.5
+    version: 1.0.5
   hexo-butterfly-envelope:
     specifier: ^1.0.15
     version: 1.0.15
@@ -616,6 +619,12 @@ packages:
     engines: {node: '>= 0.4'}
     dependencies:
       function-bind: 1.1.2
+    dev: false
+
+  /hexo-butterfly-artitalk-pro@1.0.5:
+    resolution: {integrity: sha512-sqQtTCBR7noR4IjLuVa5HRzB0GsVsjNAUmiuoAUftNcdVa9CE0axUaWPhJjmb04XWW1zIhmnwBFwU11LNe48Kw==}
+    dependencies:
+      pug: 3.0.3
     dev: false
 
   /hexo-butterfly-envelope@1.0.15:

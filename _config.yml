@@ -145,3 +145,42 @@ history_calendar:
     name: sticky_layout
     index: 0
   temple_html: '<div class="card-widget card-history"><div class="card-content"><div class="item-headline"><i class="fas fa-clock fa-spin"></i><span>那年今日</span></div><div id="history-baidu" style="height: 100px;overflow: hidden"><div class="history_swiper-container" id="history-container" style="width: 100%;height: 100%"><div class="swiper-wrapper" id="history_container_wrapper" style="height:20px"></div></div></div></div>'
+
+# artitalk see https://artitalk.js.org/
+# hexo-butterfly-artitalk-pro
+# see https://akilar.top/posts/f1004b1d/
+artitalk:
+  enable:
+    card: true # 侧边栏开关
+    page: true #页面开关
+  # 侧栏相关配置项
+  priority: 5 #过滤器优先权
+  enable_page: all # 应用页面
+  layout: # 挂载容器类型
+    type: class
+    name: sticky_layout
+    index: 0
+  # 页面相关配置项
+  path: artitalk
+  front_matter:
+    title: 碎碎念
+  # 公共配置项
+  appId: ckrX7azdsO6ezrXjVfLsup0m-MdYXbMMI
+  appKey: oSbeQrgAMkp5sfRA5bugweqi
+  exclude:
+    - /artitalk/
+    - /posts/ #需要abbrlink插件支持
+  js: https://npm.elemecdn.com/artitalk
+  card_css: https://npm.elemecdn.com/hexo-butterfly-artitalk-pro/lib/card.css
+  card_visual_js: https://npm.elemecdn.com/hexo-butterfly-artitalk-pro/lib/card_visual.js
+  option:
+    serverURL: https://ckrX7azd.api.lncldglobal.com #将此处的********替换为你的appId前八位
+    lang: zh
+    pageSize: 1
+    color1: "#49b1f5"
+    color2: "#00c4b6"
+    atEmoji:
+      {
+        "Mafumafu1": "https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Mafumafu/199749454.png",
+        "Mafumafu2": "https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Mafumafu/199749455.png",
+      }
