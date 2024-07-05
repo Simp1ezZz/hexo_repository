@@ -29,6 +29,9 @@ dependencies:
   hexo-generator-tag:
     specifier: ^2.0.0
     version: 2.0.0
+  hexo-history-calendar:
+    specifier: ^1.0.3
+    version: 1.0.3
   hexo-renderer-ejs:
     specifier: ^2.0.0
     version: 2.0.0
@@ -689,6 +692,10 @@ packages:
     engines: {node: '>=14'}
     dependencies:
       hexo-pagination: 3.0.0
+    dev: false
+
+  /hexo-history-calendar@1.0.3:
+    resolution: {integrity: sha512-XFSqUbOUEE8bwk8wmj0uyk3NIo5cI24YTBZaJDX7phvcANDFXuKWAHqqS4HlByAqeZiaDahS90pCdfjcNWPlYw==}
     dev: false
 
   /hexo-i18n@2.0.0:
