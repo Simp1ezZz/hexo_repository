@@ -88,7 +88,7 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://t.mwm.moe/pc
+    - https://bing.img.run/rand_1366x768.php
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -643,7 +643,7 @@ text_align_justify: false
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://t.mwm.moe/pc)
+background: url(https://bing.img.run/uhd.php)
 
 # Footer Background
 footer_bg: rgba(0,0,0,0)
