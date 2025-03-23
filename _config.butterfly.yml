@@ -49,7 +49,7 @@ avatar:
   effect: true
 
 # Disable all banner image
-disable_top_img: true
+disable_top_img: false
 
 # The banner image of home page
 index_img: https://raw.githubusercontent.com/Simp1ezZz/pic_repository/main/98a6cc97e40c5.png
