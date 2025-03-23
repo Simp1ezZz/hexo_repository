@@ -88,7 +88,7 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://bing.img.run/rand_1366x768.php
+    - https://picapi.pai.al/api/Therealworld.php
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -99,7 +99,7 @@ error_img:
 error_404:
   enable: true
   subtitle: "页面没有找到，如有需要请联系作者处理"
-  background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  background: https://raw.githubusercontent.com/Simp1ezZz/pic_repository/main/20250323183816921.png
 
 post_meta:
   page: # Home Page
@@ -650,8 +650,8 @@ footer_bg: rgba(0,0,0,0)
 
 # Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
 mask:
-  header: true
-  footer: true
+  header: false
+  footer: false
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside_bottom:
