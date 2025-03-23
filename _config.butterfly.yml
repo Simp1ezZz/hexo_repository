@@ -49,7 +49,7 @@ avatar:
   effect: true
 
 # Disable all banner image
-disable_top_img: false
+disable_top_img: true
 
 # The banner image of home page
 index_img: https://raw.githubusercontent.com/Simp1ezZz/pic_repository/main/98a6cc97e40c5.png
@@ -643,7 +643,7 @@ text_align_justify: false
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://bing.img.run/uhd.php)
+background: url(https://picapi.pai.al/api/Therealworld2.php)
 
 # Footer Background
 footer_bg: rgba(0,0,0,0)
