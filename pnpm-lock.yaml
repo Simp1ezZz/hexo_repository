@@ -13,7 +13,11 @@ importers:
         version: 2.0.2(katex@0.16.11)(markdown-it@13.0.2)
       hexo:
         specifier: ^7.3.0
+<<<<<<< Updated upstream
         version: 7.3.0(chokidar@3.6.0)
+=======
+        version: 7.3.0
+>>>>>>> Stashed changes
       hexo-butterfly-artitalk-pro:
         specifier: ^1.0.5
         version: 1.0.5
@@ -34,7 +38,11 @@ importers:
         version: 3.0.0
       hexo-generator-searchdb:
         specifier: ^1.4.1
+<<<<<<< Updated upstream
         version: 1.4.1(chokidar@3.6.0)
+=======
+        version: 1.4.1
+>>>>>>> Stashed changes
       hexo-generator-tag:
         specifier: ^2.0.0
         version: 2.0.0
@@ -1405,7 +1413,11 @@ snapshots:
     dependencies:
       hexo-pagination: 3.0.0
 
+<<<<<<< Updated upstream
   hexo-generator-searchdb@1.4.1(chokidar@3.6.0):
+=======
+  hexo-generator-searchdb@1.4.1:
+>>>>>>> Stashed changes
     dependencies:
       nunjucks: 3.2.4(chokidar@3.6.0)
     transitivePeerDependencies:
@@ -1501,7 +1513,11 @@ snapshots:
 
   hexo-wordcount@6.0.1: {}
 
+<<<<<<< Updated upstream
   hexo@7.3.0(chokidar@3.6.0):
+=======
+  hexo@7.3.0:
+>>>>>>> Stashed changes
     dependencies:
       abbrev: 2.0.0
       archy: 1.0.0
@@ -1751,13 +1767,20 @@ snapshots:
 
   normalize-path@3.0.0: {}
 
+<<<<<<< Updated upstream
   nunjucks@3.2.4(chokidar@3.6.0):
+=======
+  nunjucks@3.2.4:
+>>>>>>> Stashed changes
     dependencies:
       a-sync-waterfall: 1.0.1
       asap: 2.0.6
       commander: 5.1.0
+<<<<<<< Updated upstream
     optionalDependencies:
       chokidar: 3.6.0
+=======
+>>>>>>> Stashed changes
 
   object-assign@4.1.1: {}
 
