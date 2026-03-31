@@ -1,6 +1,6 @@
 ---
 title: Java线程池原理：ThreadPoolExecutor核心机制详解
-date: 2026-04-08 10:00:00
+date: 2024-02-22 14:28:32
 tags:
   - Java进阶
   - 并发编程

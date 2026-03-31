@@ -1,6 +1,6 @@
 ---
 title: Spring Boot自动装配：@EnableAutoConfiguration原理
-date: 2026-04-18 10:00:00
+date: 2023-09-10 01:02:25
 tags:
   - Java进阶
   - Spring

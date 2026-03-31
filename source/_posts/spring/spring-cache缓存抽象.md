@@ -1,6 +1,6 @@
 ---
 title: Spring Cache：缓存抽象与@Cacheable注解原理
-date: 2026-04-22 10:00:00
+date: 2024-04-16 13:32:45
 tags:
   - Java进阶
   - Spring

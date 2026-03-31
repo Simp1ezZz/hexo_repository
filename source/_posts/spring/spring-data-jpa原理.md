@@ -1,6 +1,6 @@
 ---
 title: Spring Data JPA：ORM映射与Repository机制解析
-date: 2026-04-26 10:00:00
+date: 2023-09-07 16:34:07
 tags:
   - Java进阶
   - Spring

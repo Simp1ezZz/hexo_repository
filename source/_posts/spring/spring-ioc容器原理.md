@@ -1,6 +1,6 @@
 ---
 title: Spring IoC容器：Bean的生命周期与依赖注入原理
-date: 2026-04-15 10:00:00
+date: 2023-01-06 10:09:25
 tags:
   - Java进阶
   - Spring

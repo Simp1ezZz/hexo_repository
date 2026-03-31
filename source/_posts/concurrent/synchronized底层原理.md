@@ -1,6 +1,6 @@
 ---
 title: synchronized底层原理：从对象头到Monitor锁
-date: 2026-04-06 10:00:00
+date: 2023-11-03 14:15:57
 tags:
   - Java进阶
   - 并发编程

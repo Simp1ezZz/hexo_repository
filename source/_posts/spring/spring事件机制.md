@@ -1,6 +1,6 @@
 ---
 title: Spring事件机制：ApplicationEvent与观察者模式
-date: 2026-04-23 10:00:00
+date: 2023-05-13 18:07:42
 tags:
   - Java进阶
   - Spring

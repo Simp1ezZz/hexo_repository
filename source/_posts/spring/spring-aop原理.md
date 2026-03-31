@@ -1,6 +1,6 @@
 ---
 title: Spring AOP：动态代理与切面编程深度解析
-date: 2026-04-16 10:00:00
+date: 2024-03-12 14:20:17
 tags:
   - Java进阶
   - Spring
