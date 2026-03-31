@@ -1,4 +1,11 @@
-# MySQL执行计划：EXPLAIN深度解析与慢查询优化
+---
+title: MySQL执行计划：EXPLAIN深度解析与慢查询优化
+date: 2024-04-18 00:45:43
+tags:
+  - 文章
+categories: 学习
+---
+
 
 ## 前言
 

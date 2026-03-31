@@ -1,4 +1,11 @@
-# Kafka消息可靠性：acks机制、事务与消费者配置
+---
+title: Kafka消息可靠性：acks机制、事务与消费者配置
+date: 2023-09-08 15:00:57
+tags:
+  - 文章
+categories: 学习
+---
+
 
 ## 前言
 

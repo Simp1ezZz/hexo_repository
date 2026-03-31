@@ -1,4 +1,11 @@
-# Java线上OOM排查：堆内存、Metaspace与DirectMemory
+---
+title: Java线上OOM排查：堆内存、Metaspace与DirectMemory
+date: 2023-01-22 11:34:30
+tags:
+  - 文章
+categories: 学习
+---
+
 
 ## 前言
 

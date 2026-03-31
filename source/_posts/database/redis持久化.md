@@ -1,4 +1,11 @@
-# Redis持久化：RDB与AOF机制对比分析
+---
+title: Redis持久化：RDB与AOF机制对比分析
+date: 2024-01-29 01:46:13
+tags:
+  - 文章
+categories: 学习
+---
+
 
 ## 前言
 
